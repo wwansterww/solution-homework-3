@@ -1,3 +1,0 @@
-interface CloneableGameEntity {
-    Room cloneEntity();
-}
